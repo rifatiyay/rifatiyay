@@ -29,10 +29,14 @@
 
 <p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=rifatiyay&show_icons=true" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rifatiyay&show_icons=true&theme=tokyonight_duo" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rifatiyay&show_icons=true" /></p>
+
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rifatiyay&show_icons=true&langs_count=8" /></p>
+
+
 
 <h2> Reach out to me (click on the icon😊): </h2>
-<a href="linkedin.com/in/rifatia-yumna-salma-941ba8207" title="Linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"></a>
+<a href="https://www.linkedin.com/in/rifatia-yumna-salma-941ba8207/" title="Linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"></a>
 <a href="https://www.instagram.com/rifatiyay/" title="Instagram"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://twitter.com/rifatiyay" title="Twitter"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
 
