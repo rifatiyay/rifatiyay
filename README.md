@@ -5,7 +5,7 @@
 <h2> I'm Rifatia! <img src="https://media.giphy.com/media/Pk9ahjZGewoVWjfD4G/giphy.gif" width="50"></h2>
  
 - 👩‍💻 Im an Informatics Engineering Student at Politeknik Negeri Bandung.
-- 🏃🏻‍♀️ My mission is to learn and grow! So that one day I'll be able to reach my dream to contribute in Indonesia .
+- 🏃🏻‍♀️ My mission is to learn and grow! So that one day I'll be able to reach my dream to contribute to my country's technology development, Indonesia .
 - ⚡ Fun fact: I'm a really excited girl hihii
 - 📝 "It's an imperfect world, but it's the only one we got"
 - 🏁My dream is to become a Software Engineering, and to solve real world problems!</p>
