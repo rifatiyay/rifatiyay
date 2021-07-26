@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <h1 align="center"><img src="https://media.giphy.com/media/pqStRjJyVEZDapW6EM/giphy.gif" width="30" />  Hi Everyone! 
 <img align='right' src="https://media.giphy.com/media/hVCh2ImEWsBr9sXpW1/giphy.gif" width="230">
