@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-<h1 align="center"><img src="https://media.giphy.com/media/Pk9ahjZGewoVWjfD4G/giphy.gif" width="30" /> Hi Everyone! 
-<img align='right' src="https://monophy.com/gifs/yay-X6NeFAEkJRQze" width="230">
-<h2> I'm Rifatia! <img src="https://media.giphy.com/media/pqStRjJyVEZDapW6EM/giphy.gif" width="50"></h2>
+<h1 align="center"><img src="https://media.giphy.com/media/pqStRjJyVEZDapW6EM/giphy.gif" width="30" />  Hi Everyone! 
+<img align='right' src="https://media.giphy.com/media/hVCh2ImEWsBr9sXpW1/giphy.gif" width="230">
+<h2> I'm Rifatia! <img src="https://media.giphy.com/media/Pk9ahjZGewoVWjfD4G/giphy.gif" width="50"></h2>
  
 - 👩‍💻 Im an Informatics Engineering Student at Politeknik Negeri Bandung.
 - 🏃🏻‍♀️ My mission is to learn and grow! So that one day I'll be able to reach my dream to contribute in Indonesia .
@@ -24,7 +24,7 @@
  
  
  
- <h2>My GitHub Stats<img src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif" width="50"> </h2>
+ <h2>My GitHub Stats <img src="https://media.giphy.com/media/JUGcy1JHU2ubKnq3Ug/giphy.gif" width="50"> </h2>
 
 
 <p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=rifatiyay&show_icons=true" /></p>
