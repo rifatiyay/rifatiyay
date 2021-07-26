@@ -31,7 +31,7 @@
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rifatiyay&show_icons=true" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rifatiyay&show_icons=true&layout=compact&langs_count=8" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rifatiyay&show_icons=true&layout=compact&langs_count=8" width="195px" height="495px" /></p>
 
 
 
