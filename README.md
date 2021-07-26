@@ -1,3 +1,4 @@
+### Hi there 👋
 
 <h1 align="center"><img src="https://media.giphy.com/media/pqStRjJyVEZDapW6EM/giphy.gif" width="30" />  Hi Everyone! 
 <img align='right' src="https://media.giphy.com/media/hVCh2ImEWsBr9sXpW1/giphy.gif" width="230">
@@ -30,7 +31,7 @@
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rifatiyay&show_icons=true" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rifatiyay&show_icons=true&langs_count=8" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rifatiyay&show_icons=true&layout=compact&langs_count=8" /></p>
 
 
 
