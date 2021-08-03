@@ -1,7 +1,7 @@
-### Hi there 👋
+
 
 <h1 align="center"><img src="https://media.giphy.com/media/pqStRjJyVEZDapW6EM/giphy.gif" width="30" />  Hi Everyone! 
-<h2> I'm Rifatia! <img src="https://media.giphy.com/media/Pk9ahjZGewoVWjfD4G/giphy.gif" width="50"></h2>
+<h2> I'm Rifatia!</h2>
  
 - 👩‍💻 Im an Informatics Engineering Student at Politeknik Negeri Bandung.
 - 🏃🏻‍♀️ My mission is to learn and grow! So that one day I'll be able to reach my dream to contribute to my country's technology development, Indonesia .
