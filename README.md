@@ -21,20 +21,6 @@
  
 
  
- 
- 
- 
- <h2>My GitHub Stats <img src="https://media.giphy.com/media/JUGcy1JHU2ubKnq3Ug/giphy.gif" width="50"> </h2>
-
-
-<p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=rifatiyay&show_icons=true" /></p>
-
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rifatiyay&show_icons=true" /></p>
-
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rifatiyay&show_icons=true&layout=compact&langs_count=8" width="495px" height="195px" /></p>
-
-
-
 <h2> Reach out to me (click on the icon😊): </h2>
 <a href="https://www.linkedin.com/in/rifatia-yumna-salma-941ba8207/" title="Linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"></a>
 <a href="https://www.instagram.com/rifatiyay/" title="Instagram"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
